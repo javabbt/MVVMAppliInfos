@@ -39,10 +39,6 @@ class NewsViewModel(
         getBreakingNews("fr")
     }
 
-    //we cannot start the function in the coroutine so we start the it here
-    /*
-    viewModelScope makes the function alive only as long as the ViewModel is alive
-     */
     fun getBreakingNews(countryCode: String)= viewModelScope.launch {
         safeBreakingNewsCall(countryCode)
     }
