@@ -7,3 +7,7 @@
 # Il utilise les dernières bibliothèques et méthodes Jetpack Compose mentionnées ci-dessus.
 
 # Lien de l'apk : https://github.com/javabbt/MVVMAppliInfos/blob/master/app/release/app-release.apk
+
+# Le projet a ete developpe en 2h30
+
+
