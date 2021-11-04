@@ -8,7 +8,6 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 /*
     cette classe Retrofit Instance nous permet de créer des requêtes depuis n'importe où dans notre code
-
  */
 class RetrofitInstance {
     companion object{
