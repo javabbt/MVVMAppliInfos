@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVM-Appli Infos</string>
+    <string name="save">Sauvegarder</string>
+    <string name="derni_res_nouvelles">Dernières nouvelles</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="sauvegardes">Sauvegardes</string>
+    <string name="publie_le">PUBLIE LE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="titre">TITRE</string>
+    <string name="source">SOURCE</string>
+    <string name="pasdeconn">Pas de connexion internet</string>
+</resources>
